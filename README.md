@@ -17,16 +17,12 @@ Aplicação Java com interface gráfica (Swing) para cálculo de resumo unidirec
 - Swing (Interface Gráfica)
 - MessageDigest (para cálculo do hash SHA-256)
 
-## 📷 Captura de Tela
-
-> *(adicione uma imagem aqui se desejar)*
-
 ## 🚀 Como Executar
 
 ### 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/seu-usuario/jp-beltran/SHA-256.git
 ```
 
 ### 2. Abra no Eclipse:
